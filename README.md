@@ -3,6 +3,9 @@
 ## AREP - Arquitectura Empresarial
 ## Prerrequisitos 
 Se debe tener instalado JAVA JDK 8 o superior y MVN.
+
+[¡Link de la aplicación desplegada en Heroku!](https://arcane-earth-96304.herokuapp.com/juego)
+
 ### Calculo de la media. 
 Realizamos una sumatoria de todos los datos que tenemos y lo dividimos entre el número 
 total de datos 
@@ -23,7 +26,7 @@ para recorrer de manera sencilla nuestra estructura de datos con un ciclo. Esto 
 para integrarlo al API de JAVA
 
 ## Diseño 
-En el archivo AREP Design podremos encontrar la metafora de diseño seguida y la explicación del modelo de clases realizado
+En el archivo AREP Design podremos encontrar la metafora de diseño, la explicación del modelo de clases y diagrama de componentes realizado.
 
 ## Uso del proyecto 
 Para ejecutar nuestro proyecto, procederemos a clonarlo del repositorio de GitHub
